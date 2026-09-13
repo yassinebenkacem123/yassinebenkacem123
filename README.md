@@ -271,20 +271,6 @@
 <a href="https://github.com/yassinebenkacem123" target="_blank"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" width="40" alt="GitHub"/></a>
 </p>
 
-<!--🖼️⭐STARRED/FORK-->
-<h4 align="right">
-
-<table>
-  <tr>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70" alt="star">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50" alt="run">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </tr>
-  <tr>
-    <td><p align="center"><a href="https://github.com/yassinebenkacem123?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/yassinebenkacem123/yassinebenkacem123/edit/main/README.md"><b>EDIT THIS PROFILE <br>README</b></a>
-  </tr>
- </table>
 
  
 ![snake gif](https://github.com/yassinebenkacem123/yassinebenkacem123/blob/output/github-snake-dark.svg)
