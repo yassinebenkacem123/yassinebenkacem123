@@ -285,5 +285,6 @@
     <td><p align="center"><a href="https://github.com/yassinebenkacem123/yassinebenkacem123/edit/main/README.md"><b>EDIT THIS PROFILE <br>README</b></a>
   </tr>
  </table>
+![snake gif](https://github.com/yassinebenkacem123/yassinebenkacem123/blob/output/github-snake-dark.svg)
 
 
